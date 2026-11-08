@@ -1,7 +1,7 @@
 {
  "version": 7,
  "projectName": "萨度 歌词",
- "savedAt": "2026-11-08T09:25:15.831Z",
+ "savedAt": "2026-11-08T09:25:52.926Z",
  "ui": {
   "page": "editor"
  },
@@ -260,14 +260,14 @@
     "origLang": "",
     "bilingual": false,
     "on": {
-     "uni": true,
-     "trans": true,
-     "trans2": true,
-     "trans3": true,
+     "uni": false,
+     "trans": false,
+     "trans2": false,
+     "trans3": false,
      "trans4": true
     }
    },
-   "format": "srt",
+   "format": "youtube",
    "srtMode": "separate",
    "tracks": [
     {
