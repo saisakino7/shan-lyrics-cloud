@@ -1,7 +1,7 @@
 {
  "version": 7,
  "projectName": "Songkran",
- "savedAt": "2026-11-08T07:23:59.174Z",
+ "savedAt": "2026-11-09T08:18:34.451Z",
  "ui": {
   "page": "editor"
  },
@@ -117,13 +117,8 @@
    null
   ],
   "audioFileName": "2000songkranFNN1.mp3",
-  "audioRef": {
-   "id": "2000songkranFNN1.mp3|5621158|1793781990797",
-   "name": "2000songkranFNN1.mp3",
-   "size": 5621158,
-   "lastModified": 1793781990797
-  },
-  "audioPositionCS": 13135,
+  "audioRef": null,
+  "audioPositionCS": 0,
   "appliedSig": "[[\"Lets back to 2000 golden year\",\"Lets back to 2000 golden year\",\"back to 2000 golden year\",\"ဝၼ်း မိူဝ်ႈၼႆႉပဵၼ်ပွႆးသွၼ်းၼမ်ႉ\",\"ဢွၵ်ႇမႃးယွၼ်ႉၶႂ်ႈယၢမ်းၼမ်ႉ\",\"လိူၼ်ႁႃႈပဵၼ်ပွႆးသွၼ်းၼမ်ႉ\",\"မိူဝ်ႈၼႆႉပဵၼ်ပွႆးသွၼ်းၼမ်ႉ\",\"ဝၼ်းမိူဝ်ႈၼႆႉႁဝ်းလူဝ်ႇဢွၼ်ႇၵၼ်ၵၢပ်ႈပူႇမွၼ်ႇၸွမ်းၵၼ်ၼႃႈ\",\"ဝၼ်းၼႆႉဝၼ်းငမ်းၼႆႉႁဝ်းဢွၼ်ႇၵၼ်ႁွင်ႉဝႃႈဢေႃးၵႃႇသႃႈ\",\"ယႃႇႁႂ်.ပဵၼ်တူၺ်းၵူၼ်းႁၢင်ႈလီတၢင်းဝၼ်းသေလိုမ်းဝႆႉၽြႃး\",\"မိူဝ်ႈၼႆႉႁႂ်ႈwater ၼႆႉ ႁႂ်ႈမၼ်းပဵၼ်ၵႂႃႇglow\",\"ၵဝ်လႆႈသၢဝ်ၵူႊတီႈshawty မႃးတီႈshow\",\"water spalshing ererywhere we go\",\"ႁႂ်ႈၵူၼ်းၵူႊၵေႃႉႁွတ်ႈၼမ်ႉၵဵဝ်သိူဝ်းလႆႈ\",\"မိူဝ်ႈဢၼ်တၢင်းမီးၽီၾၢႆးတူဝ်ၼိုင်ႈဝႆႉ\",\"သၢဝ်ႁၢင်ႈလီၸဵတ်ၵေႃႉၶေႉၶဵင်ႇလႆႈ\",\"ႁွတ်ႈၼမ်ႉသေၸေႊပႅၵ်ႈလွင်ႈၵမ်ႇႁႆႉ\",\"ႁႂ်ႈယူႇလီမီးငိုၼ်းၼႂ်းပီႊမႂ်ႇၼႆႉ\",\"ႁႆႇၵွင်ႁႆႇမွင်းသေၼုင်ႈၶူဝ်းတႆး\",\"ၼႆႉပဵၼ်ၽိင်ႈထုင်းႁဝ်းဢမ်ႇလႅၵ်ႈလၢႆႊ\",\"ယွၼ်ႉပိူဝ်ႈၵွပ်ႈပိူဝ်ႈၼႆႉပဵၼ်ပီႊမႂ်ႇSongkran\",\"ယွၼ်ႉပိူဝ်ႈၼႆႉပဵၼ်Songkran\",\"ပိူဝ်ႈၵွပ်ႈပိူဝ်ႈၼႆႉပဵၼ်ပီႊမႂ်ႇSongkran\",\"ဝၼ်း မိူဝ်ႈၼႆႉပဵၼ်ပွႆးသွၼ်းၼမ်ႉ\",\"ဢွၵ်ႇမႃးယွၼ်ႉၶႂ်ႈယၢမ်းၼမ်ႉ\",\"လိူၼ်ႁႃႈပဵၼ်ပွႆးသွၼ်းၼမ်ႉ\",\"မိူဝ်ႈၼႆႉပဵၼ်ပွႆးသွၼ်းၼမ်ႉ\",\"မိူဝ်ႈၼႆႉႁႂ်ႈwater ၼႆႉ ႁႂ်ႈမၼ်းပဵၼ်ၵႂႃႇglow\",\"ၵဝ်လႆႈသၢဝ်ၵူႊတီႈshawty မႃးတီႈshow\",\"water spalshing ererywhere we go\",\"ႁႂ်ႈၵူၼ်းၵူႊၵေႃႉႁွတ်ႈၼမ်ႉၵဵဝ်သိူဝ်းလႆႈ\",\"ယွၼ်ႉပိူဝ်ႈယွၼ်ႉပိူဝ်ႈဝၼ်း မိူဝ်ႈၼႆႉပဵၼ်ပီႊမႂ်ႇSongkran\",\"ၵွပ်ႈပိူဝ်ႈၼႆႉပဵၼ်ပီႊမႂ်ႇSongkran\",\"ၵွပ်ႈပိူဝ်ႈၼႆႉပဵၼ်Songkran\"],[1536,1870,2208,2747,3151,3475,3800,4054,4421,4752,5443,5779,6091,6420,6651,6810,6978,7139,7300,7466,7634,8427,9040,9237,9644,9964,10275,10617,10952,11269,11605,11873,12269,12595],12843,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]]"
  },
  "settings": {
@@ -133,13 +128,13 @@
   "autoProtect": true,
   "showEnd": true,
   "fileBaseName": "Songkran",
-  "showPretty": false,
-  "showTrans1": false,
+  "showPretty": true,
+  "showTrans1": true,
   "focusCols": [
    "uni",
    "trans3"
   ],
-  "showTrans2": false,
+  "showTrans2": true,
   "showTrans3": true,
   "showTrans4": true,
   "translate": {
