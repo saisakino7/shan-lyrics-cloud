@@ -1,7 +1,7 @@
 {
  "version": 7,
  "projectName": "MML",
- "savedAt": "2026-11-25T06:41:08.056Z",
+ "savedAt": "2026-11-25T06:43:25.114Z",
  "ui": {
   "page": "editor"
  },
@@ -341,19 +341,19 @@
     }
    },
    "format": "srt",
-   "srtMode": "merged",
+   "srtMode": "separate",
    "tracks": [
     {
      "key": "uni",
+     "on": false
+    },
+    {
+     "key": "pretty",
      "on": true
     },
     {
      "key": "trans",
      "on": true
-    },
-    {
-     "key": "pretty",
-     "on": false
     },
     {
      "key": "trans2",
